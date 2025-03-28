@@ -8,6 +8,9 @@
 [Can buy here](https://www.aliexpress.com/item/1005007224895885.html) 
 
 
+### Modbus RTU Dokumentation:
+https://github.com/mathieucarbou/MycilaJSY
+
 ### Installation
 
 If your device doesn't have an RS485 interface, you need to buy a conversion module.
